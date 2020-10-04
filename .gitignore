@@ -1,0 +1,8 @@
+# Text Files
+*.txt
+
+# Word Files
+*.docx
+
+# Screenshots and Images Folder
+/Images

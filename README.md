@@ -1,6 +1,6 @@
 # UnHackable
 
-Welcome to the Readme file of UnHackable
+<p align="center"> Welcome to the Readme file of UnHackable </p>
 
 UnHackable is a app that generates passwords to keep you safe on the Internet by generating strong, hard to guess passwords.
 Updates will be rolling out frequently so stay tuned on that. :+1:
@@ -21,3 +21,30 @@ Screenshots :point_down:
 ![Screenshot 1](https://cdn.discordapp.com/attachments/765166281334325300/767696254749769728/1.jpg)
 
 ![Screenshot 2](https://cdn.discordapp.com/attachments/765166281334325300/767696262144983050/2.jpg)
+
+# Prerequisities:
+0. None
+
+# Installation
+
+1. Using Download:
+   
+   Steps:
+   1. Go to the <a href="https://github.com/play4Tutorials/UnHackable">Repo</a>
+   2. Click on Download or button in Readme.
+   3. (After Download is complete) Unzip the file
+   4. Go to the Location where it has been unzipped
+   5.Open the folder and double-click or Run `unhackable-setup.exe`.
+   6. Go through the installation and Done.
+   
+2. Using [Git]("https://git-scm.com/downloads"):
+   Prerequisites:
+   1. <a href="https://git-scm.com/downloads">Git</a>
+   
+   Steps:
+   1. Open CMD(Command Prompt)
+   2. Go to the location where you want to clone
+   3. Type and Run `git clone https://github.com/play4Tutorials/UnHackable.git`
+   4. `cd` into the new folder
+   5. Run `unhackable-setup.exe`
+   6. Go through the installation and done.

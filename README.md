@@ -5,7 +5,7 @@ Welcome to the Readme file of UnHackable
 UnHackable is a app that generates passwords to keep you safe on the Internet by generating strong, hard to guess passwords.
 Updates will be rolling out frequently so stay tuned on that. :+1:
 ***
-<p align="centre">
+<p align="center">
 <a href="https://github.com/play4Tutorials/UnHackable/archive/master.zip"><img src="https://img.shields.io/badge/UnHackable-Download-blue" alt="Download"></a>
 <a href="https://github.com/play4Tutorials/UnHackable"><img src="https://img.shields.io/badge/UnHackable-Star-blueviolet" alt="Star"></a>
 <a href="https://github.com/play4Tutorials/UnHackable/subscription"><img src="https://img.shields.io/badge/UnHackable-Watch-critical" alt="Watch"></a>

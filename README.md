@@ -37,7 +37,7 @@ Screenshots :point_down:
    5.Open the folder and double-click or Run `unhackable-setup.exe`.
    6. Go through the installation and Done.
    
-2. Using [Git]("https://git-scm.com/downloads"):
+2. Using Git:<br/>
    Prerequisites:
    1. <a href="https://git-scm.com/downloads">Git</a>
    

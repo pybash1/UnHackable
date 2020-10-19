@@ -9,9 +9,9 @@ Links to Download, Fork, Star, Follow available below screenshots
 ***
 Screenshots :point_down:
 
-![Screenshot 1](https://github.com/play4Tutorials/private-items-files-images/blob/main/1.jpg)
+![Screenshot 1](https://cdn.discordapp.com/attachments/765166281334325300/767696254749769728/1.jpg)
 
-![Screenshot 2](https://github.com/play4Tutorials/private-items-files-images/blob/main/2.jpg)
+![Screenshot 2](https://cdn.discordapp.com/attachments/765166281334325300/767696262144983050/2.jpg)
 
 <a class="github-button" href="https://github.com/play4Tutorials" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @play4Tutorials on GitHub">Follow @play4Tutorials</a>
 

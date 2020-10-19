@@ -48,4 +48,3 @@ Screenshots :point_down:
    4. `cd` into the new folder
    5. Run `unhackable-setup.exe`
    6. Go through the installation and done.
-

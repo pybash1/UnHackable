@@ -49,4 +49,3 @@ Screenshots :point_down:
    5. Run `unhackable-setup.exe`
    6. Go through the installation and done.
 
-

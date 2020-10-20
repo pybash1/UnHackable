@@ -16,6 +16,10 @@ Updates will be rolling out frequently so stay tuned on that. :+1:
 </p>
 
 ***
+# Supported Platforms:
+
+Currently only Windows is supported. I hopw to bring suppost for MacOS along the next update!
+***
 Screenshots :point_down:
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/765166281334325300/767696254749769728/1.jpg)

@@ -18,7 +18,7 @@ Updates will be rolling out frequently so stay tuned on that. :+1:
 ***
 # Supported Platforms:
 
-Currently only Windows is supported. I hopw to bring suppost for MacOS along the next update!
+Currently only Windows is supported. I hope to bring suppost for MacOS along the next update!
 ***
 Screenshots :point_down:
 
@@ -35,7 +35,7 @@ Screenshots :point_down:
    
    Steps:
    1. Go to the <a href="https://github.com/play4Tutorials/UnHackable">Repo</a>
-   2. Click on Download or button in Readme.
+   2. Click on <a href="https://github.com/play4Tutorials/UnHackable/archive/master.zip">Download</a> or button in Readme.
    3. (After Download is complete) Unzip the file
    4. Go to the Location where it has been unzipped
    5.Open the folder and double-click or Run `unhackable-setup.exe`.

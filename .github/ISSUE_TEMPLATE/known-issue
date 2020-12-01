@@ -1,3 +1,12 @@
+---
+name: Known Issue
+about: Issues which are already known or have been found
+title: ''
+labels: 'bug'
+assignees: play4Tutorials
+
+---
+
 # Known Issues Template
 
 Issue Type - Bug/Feature

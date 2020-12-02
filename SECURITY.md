@@ -7,7 +7,9 @@ no vulnerability has been spotted.
 
 | Version | Supported(Yes or No) |
 | ------- | -------------------- |
-| 1.x     | :heavy_check_mark:   |
+| 3.x     | :heavy_check_mark:   |
+| 2.x     | :heavy_check_mark:   |
+| 1.x     | :x:                  |
 
 ## Reporting a Vulnerability
 

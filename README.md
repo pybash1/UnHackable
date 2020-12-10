@@ -15,7 +15,7 @@ Updates will be rolling out frequently so stay tuned on that. :+1:
 
 ***
 
-<a href="# Supported Platforms" align="center"><img align="center" src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square&logo=windows" alt="Platforms"></a>
+<a href="# Supported Platforms" style="text-align: center;"><img style="text-align: center;" src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square&logo=windows" alt="Platforms"></a>
 </p>
 
 ***

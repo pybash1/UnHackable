@@ -7,14 +7,14 @@ Updates will be rolling out frequently so stay tuned on that. :+1:
 ***
 <p align="center">
    <h3 align="center">Github</h3>
-<a href="https://github.com/play4Tutorials/UnHackable/archive/master.zip"><img align="center" src="https://img.shields.io/badge/UnHackable-Download-blue?style=flat-square" alt="Download"></a>
-<a href="https://github.com/play4Tutorials/UnHackable"><img align="center" src="https://img.shields.io/badge/UnHackable-Star-blueviolet?style=flat-square" alt="Star"></a>
-<a href="https://github.com/play4Tutorials/UnHackable/subscription"><img align="center" src="https://img.shields.io/badge/UnHackable-Watch-critical?style=flat-square" alt="Watch"></a>
-<a href="https://github.com/play4Tutorials/UnHackable/fork"><img align="center" src="https://img.shields.io/badge/UnHackable-Fork-red?style=flat-square" alt="Fork"></a>
-<a href="https://github.com/play4Tutorials"><img align="center" src="https://img.shields.io/badge/UnHackable-Follow-important?style=flat-square" alt="Follow"></a>
-<a href="https://github.com/play4Tutorials/UnHackable/issues"><img align="center" src="https://img.shields.io/badge/UnHackable-Issue-critical?style=flat-square" alt="Issue"></a>
+<a href="https://github.com/play4Tutorials/UnHackable/archive/master.zip"><img src="https://img.shields.io/badge/UnHackable-Download-blue?style=flat-square" alt="Download"></a>
+<a href="https://github.com/play4Tutorials/UnHackable"><img src="https://img.shields.io/badge/UnHackable-Star-blueviolet?style=flat-square" alt="Star"></a>
+<a href="https://github.com/play4Tutorials/UnHackable/subscription"><img src="https://img.shields.io/badge/UnHackable-Watch-critical?style=flat-square" alt="Watch"></a>
+<a href="https://github.com/play4Tutorials/UnHackable/fork"><img src="https://img.shields.io/badge/UnHackable-Fork-red?style=flat-square" alt="Fork"></a>
+<a href="https://github.com/play4Tutorials"><img src="https://img.shields.io/badge/UnHackable-Follow-important?style=flat-square" alt="Follow"></a>
+<a href="https://github.com/play4Tutorials/UnHackable/issues"><img src="https://img.shields.io/badge/UnHackable-Issue-critical?style=flat-square" alt="Issue"></a>
    <h3 align="center">Platforms</h3>
-<a href=#><img align="center" src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square" alt="Platforms"></a>
+<a href=#><img src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square" alt="Platforms"></a>
 </p>
 
 ***

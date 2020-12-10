@@ -12,10 +12,12 @@ Updates will be rolling out frequently so stay tuned on that. :+1:
 <a href="https://github.com/play4Tutorials/UnHackable/fork"><img src="https://img.shields.io/badge/UnHackable-Fork-red?style=flat-square" alt="Fork"></a>
 <a href="https://github.com/play4Tutorials"><img src="https://img.shields.io/badge/UnHackable-Follow-important?style=flat-square&logo=github" alt="Follow"></a>
 <a href="https://github.com/play4Tutorials/UnHackable/issues"><img src="https://img.shields.io/badge/UnHackable-Issue-critical?style=flat-square" alt="Issue"></a>
+</p>
 
 ***
 
-<a href="# Supported Platforms" style="text-align: center;"><img style="text-align: center;" src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square&logo=windows" alt="Platforms"></a>
+<p align="center">
+<a href="#supported-platforms"><img src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square&logo=windows" alt="Platforms"></a>
 </p>
 
 ***

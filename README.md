@@ -18,6 +18,7 @@ Updates will be rolling out frequently so stay tuned on that. :+1:
 
 <p align="center">
 <a href="#supported-platforms"><img src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square&logo=windows" alt="Platforms"></a>
+<a href="https://discord.gg/C7SH25mq56"><img src="https://img.shields.io/badge/Discord-UnHackable-blue?style=flat-square&logo=discord" alt="Discord"></a>
 </p>
 
 ***

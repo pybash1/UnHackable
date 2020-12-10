@@ -37,20 +37,18 @@ Screenshots :point_down:
 
 # Installation
 
-1. Using Download:
-   
+1. Using Download:<br/>
    Steps:
-   1. Go to the <a href="https://github.com/play4Tutorials/UnHackable">Repo</a>
+   1. Go to the <a href="https://github.com/play4Tutorials/UnHackable">Repo</a>.
    2. Click on <a href="https://github.com/play4Tutorials/UnHackable/archive/master.zip">Download</a> or button in Readme.
-   3. (After Download is complete) Unzip the file
-   4. Go to the Location where it has been unzipped
-   5.Open the folder and double-click or Run `unhackable-setup.exe`.
+   3. (After Download is complete) Unzip the file.
+   4. Go to the Location where it has been unzipped.
+   5. Open the folder and double-click or Run `unhackable-setup.exe`.
    6. Go through the installation and Done.
    
 2. Using Git:<br/>
    Prerequisites:
-   1. <a href="https://git-scm.com/downloads">Git</a>
-   
+   <a href="https://git-scm.com/downloads">Git</a><br/>
    Steps:
    1. Open CMD(Command Prompt)
    2. Go to the location where you want to clone

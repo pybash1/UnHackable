@@ -1,8 +1,8 @@
-# Contributing
+# Contribution or Contributing
 
-Currently you cannot change the code of this program but if you want to contribute now
-you can provide better logo or suggest features to be added
+Incase you want to contribute to the Code of UnHackable then please join our Discord where you will get to know everything about that.
 
-If you want to edit the code of this program but it will be available in the near future
-
-:+1: :+1: :+1:
+Incase you dont want to be contribute to the Code then you can do the following:
+1. You can provide us with Better Icons(Join our Discord/Send me a link to an image or something like that).
+2. You can help us make the UX/UI better(Need to Join our Discord).
+3. Promote this Repository.

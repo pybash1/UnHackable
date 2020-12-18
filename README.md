@@ -39,7 +39,7 @@ Screenshots :point_down:
 
 1. Using Download:<br/>
    Steps:
-   1. Go to the <a href="https://github.com/play4Tutorials/UnHackable">Repo</a>.
+   1. Go to the <a href="https://github.com/play4Tutorials/UnHackable">Repository</a>.
    2. Click on <a href="https://github.com/play4Tutorials/UnHackable/archive/master.zip">Download</a> or button in Readme.
    3. (After Download is complete) Unzip the file.
    4. Go to the Location where it has been unzipped.

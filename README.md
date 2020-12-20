@@ -19,12 +19,11 @@ Updates will be rolling out frequently so stay tuned on that. :+1:
 <p align="center">
 <a href="#supported-platforms"><img src="https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square&logo=windows" alt="Platforms"></a>
 <a href="https://discord.gg/C7SH25mq56"><img src="https://img.shields.io/badge/Discord-UnHackable-blue?style=flat-square&logo=discord" alt="Discord"></a>
+<a href="https://gitter.im/unhackable-gitter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://img.shields.io/badge/Chat On-Gitter-blue?style=flat-square&logo=gitter" alt=""></a>
 </p>
 
 ***
 # Supported Platforms:
-
-[![Join the chat at https://gitter.im/unhackable-gitter/community](https://badges.gitter.im/unhackable-gitter/community.svg)](https://gitter.im/unhackable-gitter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Currently only Windows is supported. I hope to bring suppost for MacOS along the next update!
 ***

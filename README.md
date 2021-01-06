@@ -29,9 +29,9 @@ Currently only Windows is supported. I hope to bring suppost for MacOS along the
 ***
 Screenshots :point_down:
 
-![Screenshot 1](https://cdn.discordapp.com/attachments/765166281334325300/783655534682177576/Screenshot-1.png)
+![Screenshot 1](https://github.com/play4Tutorials/UnHackable/blob/screenshots/Shot-1.png)
 
-![Screenshot 2](https://cdn.discordapp.com/attachments/765166281334325300/783655539082133554/Screenshot-2.png)
+![Screenshot 2](https://github.com/play4Tutorials/UnHackable/blob/screenshots/Shot-2.png)
 
 # Prerequisities:
 0. None

@@ -1,6 +1,6 @@
 # UnHackable License
 
-**Copyright 2020 Play 4 Tutorials, All Rights Reserved**
+**Copyright 2021 Play 4 Tutorials, All Rights Reserved**
 
 **UnHackable**
 
@@ -16,7 +16,7 @@
 **UnHackable Source Code Copyright (yyyy)* Play 4 Tutorials, All Rights Reserved.**
 **Original Software - [GitHub - UnHackable](https://www.github.com/play4Tutorials/UnHackable)**
 
-* : **The year to be written is the year at the top of this Document and that shall change as per the year is changed here. Currently 2020 as of writing this.**
+"*" : **The year to be written is the year at the top of this Document and that shall change as per the year is changed here. Currently 2021 as of writing this.**
 
 **While Redistributing the software as it is no part of the code should be changed not even comments.**
 

@@ -2,6 +2,11 @@
 
 <p align="center"> Welcome to the Readme file of UnHackable </p>
 
+## Important Notice
+The next update was scheduled to launch on 1st March, 2021. But due to a error in a dependency, It has been delayed. It will be launched soon.
+
+***
+
 UnHackable is a app that generates passwords to keep you safe on the Internet by generating strong, hard to guess passwords.
 Updates will be rolling out frequently so stay tuned on that. :+1:
 ***
